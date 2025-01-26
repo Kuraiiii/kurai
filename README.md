@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=appujet&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/appujet)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jacx-o&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/appujet)
 
 # Hi there 👋
 
