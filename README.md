@@ -8,16 +8,16 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
 - 🌱 I’m currently learning React, Node.js, Express
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about anything
-- 📫 How to reach me: [Twitter](https://twitter.com/appujet)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100089035335390)
 - 😄 Pronouns: He/Him)
-- ⚡ Fun fact: I love to play games and watch movies
+- ⚡ Fun fact: I love to play games and watch animes
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/appujet)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](sdipedit@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/appujet/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/appujet/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/appujet/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/959276033683628122)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KuRai481403) 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](kurai7219@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kurai590/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089035335390/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/1132975955959369738)
 
 
 ### Languages:
@@ -66,9 +66,6 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
       <img alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50" />
     </td>
     <td>
-      <img alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" />
-    </td>
-    <td>
       <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
     </td>
     <td>
@@ -76,9 +73,6 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
     </td>
     <td>
       <img alt="Cloudflare-Workers" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="50" height="50" />
-    </td>
-    <td>
-      <img alt="Netlify" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="50" height="50" />
     </td>
     <td>
       <img alt="Vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" height="50" />
